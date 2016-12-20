@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <iostream>
 #include <fstream>
 
@@ -49,7 +48,7 @@ int main()
 		else {
 			std::cout << "ERROR: Character not recognized";
 		}
-
+		
 	}
 	std::cout << "\n";
 	input_file.close();
